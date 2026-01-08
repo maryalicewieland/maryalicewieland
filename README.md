@@ -12,3 +12,4 @@ Currently working on:
 - Reproducibility in High-Performance Computing
 - Carbon-intensity data analysis for green computing
 
+Hobbies & Interests: Creative coding for music production using Arduino-based hardware projects.
