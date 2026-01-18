@@ -5,7 +5,7 @@ high-performance computing, and reproducibility.
 
 🔹 Data analysis & visualization  
 🔹 HPC environments 
-🔹 Cybersecurity & privacy, open source. 
+ 🔹 Cybersecurity & privacy, open source. 
 
 Currently working on:
 - Reproducibility in High-Performance Computing
